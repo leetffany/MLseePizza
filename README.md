@@ -3,11 +3,14 @@ This smart app tells you whether an object is pizza or not pizza 🍕
 
 ## Goal 
 Cooperate pre-trained image recognition model(Inceptionv3.mlmodel) into my seePizza project 
+
 Implement image recognition using Vision and CoreML 
 
 ## CoreML?
 New machine learning framework 
+
 Make apps more intelligent 
+
 Allows us to integrate machine learning 
 
 ## Note
